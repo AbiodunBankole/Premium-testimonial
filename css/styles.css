@@ -61,7 +61,7 @@ nav	{
 	nav	{
 		background-color: transparent;
 		color: #fff;
-		margin: 3% 4% 14%; 
+		margin: 3% 4% 23%; 
 }
 	.logo	{
 		width: 110px;
@@ -79,8 +79,8 @@ nav	{
 	.btn	{
 		color: #fff;
 		padding: 10px 20px;
-		margin-top: 5%;
-		margin-bottom: 90%;
+		margin-top: 15%;
+		margin-bottom: 120%;
 		text-align: center;
 		font-size: 0.8rem;
 	}
