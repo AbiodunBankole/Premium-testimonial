@@ -53,3 +53,22 @@ nav	{
 		margin-bottom: 14%;
 }
 }
+
+@media (max-width: 320px) {
+
+	nav	{
+		background-color: transparent;
+		color: #fff;
+		margin: 3% 4% 14%; 
+}
+	#main h1	{
+		font-size: 2rem;
+}
+
+	.btn	{
+		color: #fff;
+		padding: 10px 20px;
+		margin-top: 5%;
+		margin-bottom: 14%;
+}
+}
