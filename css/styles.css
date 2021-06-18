@@ -55,6 +55,8 @@ nav	{
 }
 
 @media (max-width: 320px) {
+	
+	
 
 	nav	{
 		background-color: transparent;
@@ -64,6 +66,10 @@ nav	{
 	.logo	{
 		width: 110px;
 	}
+	
+	#main 	{
+	padding: 0 20%;
+}
 	
 	#main h1	{
 		font-size: 2rem;
